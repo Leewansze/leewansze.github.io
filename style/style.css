@@ -1,8 +1,13 @@
 body{
 	font-family: 'Courier New';
 }
+p{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
 .container{
 	width: 1170px;
+	font-size: 20px;
 	margin: auto;
 	padding-top: 100px
 }
@@ -14,5 +19,4 @@ body{
 }
 .link{
 	text-decoration: none;
-	font-size: 20px;
 }
