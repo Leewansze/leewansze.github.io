@@ -1,0 +1,18 @@
+body{
+	font-family: 'Courier New';
+}
+.container{
+	width: 1170px;
+	margin: auto;
+	padding-top: 100px
+}
+.name{
+	font-size: 35px;
+}
+.bigTitle{
+	margin-bottom: 50px;
+}
+.link{
+	text-decoration: none;
+	font-size: 20px;
+}
